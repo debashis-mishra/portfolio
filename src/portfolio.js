@@ -26,7 +26,7 @@ const greeting = {
     "Experienced Full Stack Developer: 🚀 Specialized in JavaScript, React.js, Node.js, and various frameworks. 💻 Dedicated to building innovative web solutions that drive impact. 🌟"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1xpRtUxpkhbIKVDjzIf8yQIacHcUXaafk/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1isfVb_cahgzQyI0vIR1H04C7INwIAiSj/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -35,7 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/debashis-mishra",
   linkedin: "https://www.linkedin.com/in/debashismishra-007",
-  gmail: "debashis.007.m@gmail.com",
+  gmail: "mishradebashis.work@gmail.com",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -125,7 +125,7 @@ const educationInfo = {
       // desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
         "Branch: Information Technology",
-        "CGPA: 8.95 / 10.0"
+        "CGPA: 9.02 / 10.0"
       ]
     },
   ]
@@ -361,7 +361,7 @@ const contactInfo = {
   subtitle:
     "Should you wish to discuss a project or extend a greeting, my inbox remains open and accessible for all your correspondence.",
   number: "+91-8249039172",
-  email_address: "debashis.007.m@gmail.com"
+  email_address: "mishradebashis.work@gmail.com"
 };
 
 // Twitter Section
